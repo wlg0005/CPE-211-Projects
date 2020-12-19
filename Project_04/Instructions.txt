@@ -1,0 +1,21 @@
+For input files provided, 
+use redirected input to have your 
+program read the values.
+
+if your program source code is Project_04.cpp
+Then compile the code using the command:
+g++ Project_04.cpp -o Project_04
+
+or compile using the provided Makefile by
+typing make at the prompt in the terminal window.
+
+To run your program, type the following command:
+./Project_04
+
+To run your program using redirected input with
+the input files, use the commands
+./Project_04 < P4_in1.txt 
+or
+./Project_04 < P4_in2.txt
+or
+./Project_04 < P4_in3.txt

@@ -1,0 +1,3 @@
+line 1 has  A95.98     as the first number
+B54.23 is the second number 
+the third number is C-88.88

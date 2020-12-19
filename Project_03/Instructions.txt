@@ -1,0 +1,15 @@
+The input files provided are for redirected input use only.
+To perform redirected input use the following format
+
+At a command prompt, compile your program by typing the 
+following:
+g++ -std=c++11 Project_03.cpp -o Project_03
+
+Once the program successfully compiles, run the program
+with input file redirection by typing the following
+at a command prompt in the terminal window:
+ ./Project_03 < P3_in1.txt
+
+Where P3_in1.txt is the name of the file to use for
+redirected input.  
+

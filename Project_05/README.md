@@ -1,0 +1,2 @@
+# Project-05
+This program takes two command line arguments, one for an input file and one for an output file. Once a valid input file and output file are provided, the program reads the number that comes after A, B, C on their respective lines. It ensures that each number is positive and then finds the sum and average as well as determining if the average is High (avg >= 75), Medium (25 <= avg < 75), or Low (avg < 25). The numbers read, their average, and their average rating is written to the output file.

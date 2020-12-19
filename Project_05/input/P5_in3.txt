@@ -1,0 +1,3 @@
+A15.98
+B14.23
+C8.88 is the third number

@@ -1,0 +1,9 @@
+The input files provided for this project are to
+be used with input redirection.
+
+To use these files with your program, compile
+the program and run it as shown below:
+g++ -std=c++11 Project_07.cpp -o Project_07
+
+./Project_07 < P7_in1.txt
+
